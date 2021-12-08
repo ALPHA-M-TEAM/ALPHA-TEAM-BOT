@@ -1,10 +1,10 @@
 {
-  "__AMDIJSON__": true,
+  "__ALPHAJSON__": true,
   "LANGUAGE": "English",
   "LANGCODE": "english",
   "AUTHOR": "KINGALPHA",
   "STRINGS": {
-    "_amdi": {
+    "_ALPHA": {
       "COMMAND": "Command",
       "DESC": "Description",
       "EXAMPLE": "Example",
@@ -335,7 +335,7 @@
       "GETTING_VIDEOS": "```🔎 Please wait, the video is being searched...```",
       "YTS":"_📡 Based site : YouTube_"
     },
-    "serveramdi": {
+    "serverALPHA": {
       "TERM_DESC": "Allow server command shell to run.",
       "GIVE_ME_CODE": "*Give me a code!*"
     },
@@ -447,7 +447,7 @@
       "PING_DESC": "Your ping.",
       "URL": "Shorten link.",
       "NEED": "*Need a link!*",
-      "AMDI_QR": "Get QR code to install KING ALPHA Bot.",
+      "ALPHA_QR": "Get QR code to install KING ALPHA Bot.",
       "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/KINGALPHA/KINGALPHA to install the bot. _(Type *.getqr stop* to stop QR generating)_",
       "INBOX": "*Please get QR from messaging to inbox. _(.getqr)_*"
     }
